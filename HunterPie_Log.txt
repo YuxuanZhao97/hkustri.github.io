@@ -1,0 +1,27 @@
+[22:39:18][Info] Initialized HunterPie Client configuration.
+[22:39:19][Info] Initialized HunterPie logger
+[22:39:19][Info] Loaded theme Default
+[22:39:19][Info] Loaded localization zh-cn
+[22:39:19][Info] Time taken for 'Initialize': 2217ms
+[22:39:20][Info] Initializing HunterPie client UI
+[22:39:20][Info] Starting benchmark for 'InitializeGUI'
+[22:39:20][Info] Time taken for 'InitializeGUI': 0ms
+[22:39:20][Info] Started scanning for process MonsterHunterWorld...
+[22:39:20][Info] Started scanning for process MonsterHunterRise...
+[22:39:20][Info] Loaded MonsterHunterWorld.421740.map successfully
+[22:39:20][Warn] Make sure you have Stracker's Loader and it's dependencies installed.
+If your game crash while using HunterPie, that means you don't have them installed.
+[22:39:20][Info] HunterPie Native Interface injected successfully!
+[22:39:21][Info] Connected to HunterPie Native Interface
+[22:39:21][Info] Successfully initialized HunterPie Native Interface hooks!
+[22:41:20][Info] MonsterHunterWorld has been closed
+[22:41:36][Info] Loaded MonsterHunterWorld.421810.map successfully
+[22:41:36][Warn] Make sure you have Stracker's Loader and it's dependencies installed.
+If your game crash while using HunterPie, that means you don't have them installed.
+[22:41:36][Info] HunterPie Native Interface injected successfully!
+[22:41:36][Info] Connected to HunterPie Native Interface
+[22:41:37][Info] Successfully initialized HunterPie Native Interface hooks!
+[22:42:15][Info] Logged in as 牢大
+[23:25:42][Info] Missing abnormality: Skills_7C8
+[23:25:42][Info] MonsterHunterWorld has been closed
+[23:25:43][Info] MonsterHunterWorld has exited abnormally. If you have not installed Stracker's Loader and CRC bypass mod, turning off "Enable native module" in Client Settings may help.
